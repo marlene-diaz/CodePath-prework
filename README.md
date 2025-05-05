@@ -20,11 +20,28 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+    Facebook:
+    -Displays Events near you
+    -Displays what others liked
+    Instragram:
+    -Displays videos with algorithm
+    -Has polls where followers can participate
+    Youtube:
+    -Creators uploading long videos for others to easily access
+    -Saved playlists for users to watch later, keeping tabs
+
+My idea for an app is to have a Virtual Assistant, it keeps track of your behavioral movements.
+Where it can arrange meetings and tell you to take breaks when needed or telling you verbal reminders.
+It can keep track of everything in your life while avoiding long working hours. avoids Stress overload.
+it automatically give you suggestions ex: "Would you like me to move your 4 o'clock" and can make references to
+movies that you watch.
+    
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Learning where the tools were took some time.
+It is hard to open so many windows at the same time
 
 ## License
 
